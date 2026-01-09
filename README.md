@@ -5,7 +5,9 @@ This project gets live weather data and sends desktop notifications for your cho
 
 # Features
 ~ Sends desktop notifications with key weather info
+
 ~ Works on Windows, macOS & Linux
+
 ~ Sends desktop notifications with key weather info 
 
 # How It Works
@@ -20,4 +22,11 @@ This project gets live weather data and sends desktop notifications for your cho
 # Examples
 <img width="364" height="109" alt="image" src="https://github.com/user-attachments/assets/e78595a8-202b-4bfd-a59b-3c70c5370975" />
 <img width="363" height="108" alt="image" src="https://github.com/user-attachments/assets/3935a733-bae0-4209-b0b6-ef22bbbf4f3a" />
+
+# What I learned 
+- How to work with APIs and JSON data in Python
+- More python
+- Using desktop notifications in Python
+- Structuring a small Python project
+- Writing a professional GitHub README
 
