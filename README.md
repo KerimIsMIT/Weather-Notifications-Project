@@ -4,7 +4,7 @@ Get real-time weather desktop alerts using Python!
 This project gets live weather data and sends desktop notifications for your choice of location — perfect for staying updated without checking the weather app.
 
 # Features
-~Sends desktop notifications with key weather info
+~ Sends desktop notifications with key weather info
 ~ Works on Windows, macOS & Linux
 ~ Sends desktop notifications with key weather info 
 
